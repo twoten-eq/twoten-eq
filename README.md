@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a style="cursor: unset">
+<a style="cursor: none">
   <img s align="center" src="https://github-readme-stats.vercel.app/api?username=twoten-eq&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twoten-eq&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
