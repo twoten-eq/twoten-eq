@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <h1>what</h1>
-<div align="top">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=twoten-eq&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twoten-eq&layout=compact&langs_count=4" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twoten-eq&layout=compact&langs_count=4" />
 </div>
 
